@@ -1,16 +1,16 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# ProcastiPal 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Bytes of Nonsense
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Angel Roy - CET,Trivandrum
+- Member 2: Priyananda T - CET,Trivandrum
+- Member 3: Shifa Fathima - CET,Trivandrum
 
 ### Project Description
 [2-3 lines about what your project does]
