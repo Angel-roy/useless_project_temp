@@ -86,19 +86,16 @@ For Hardware:
 
 # Build Photos
 ![Components]
-[[https://drive.google.com/file/d/1UV7sti-ss8UxtzL1wMFVOweVyCrvehvp/view?usp=drive_link](https://drive.google.com/file/d/1m1Zm6W_37fzXCBV0dxsQFb0aRk2SbqLJ/view?usp=drive_link)](https://drive.google.com/file/d/1m1Zm6W_37fzXCBV0dxsQFb0aRk2SbqLJ/view?usp=drive_link)
-![Build]
-
-![Final]
 https://drive.google.com/file/d/1m1Zm6W_37fzXCBV0dxsQFb0aRk2SbqLJ/view?usp=drive_link
-[*Explain the final build*]
-(https://drive.google.com/file/d/1UV7sti-ss8UxtzL1wMFVOweVyCrvehvp/view?usp=drive_link)
+![Build]
+https://drive.google.com/file/d/1Zm_hJd79FoIi9vhBThp0YD-yRDYaHR4r/view?usp=drive_link
+![Final]
+https://drive.google.com/file/d/1UV7sti-ss8UxtzL1wMFVOweVyCrvehvp/view?usp=drive_link
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
+(https://drive.google.com/file/d/1xvc_OIj3ClRtZqvKrxM8qExxFdm5MMh9/view?usp=drive_link)
+the video exolains different functionalities
 # Additional Demos
 [Add any extra demo materials/links]
 
