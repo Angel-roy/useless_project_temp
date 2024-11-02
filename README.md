@@ -85,14 +85,14 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+![Components]
+[[https://drive.google.com/file/d/1UV7sti-ss8UxtzL1wMFVOweVyCrvehvp/view?usp=drive_link](https://drive.google.com/file/d/1m1Zm6W_37fzXCBV0dxsQFb0aRk2SbqLJ/view?usp=drive_link)](https://drive.google.com/file/d/1m1Zm6W_37fzXCBV0dxsQFb0aRk2SbqLJ/view?usp=drive_link)
+![Build]
 
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+![Final]
+https://drive.google.com/file/d/1m1Zm6W_37fzXCBV0dxsQFb0aRk2SbqLJ/view?usp=drive_link
+[*Explain the final build*]
+(https://drive.google.com/file/d/1UV7sti-ss8UxtzL1wMFVOweVyCrvehvp/view?usp=drive_link)
 
 ### Project Demo
 # Video
